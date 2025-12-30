@@ -1,0 +1,19 @@
+{
+  "name": "nextx-cli",
+  "version": "0.1.0",
+  "description": "Next.js 15/16 App Router CLI for generating routes, APIs, components, layouts, and more",
+  "main": "bin/nextx.js",
+  "bin": {
+    "nextx": "./bin/nextx.js"
+  },
+  "scripts": {
+    "dev": "node bin/nextx.js"
+  },
+  "keywords": ["nextjs", "cli", "generator", "app-router"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^5.3.0"
+  }
+}
