@@ -1,3 +1,9 @@
+## 💖 Support
+
+If you like `nextx-cli` and want to support development, you can donate:
+
+[Venmo](https://venmo.com/tirupats96) 
+
 # NextX CLI 🚀
 
 `nextx` is a CLI tool for scaffolding **Next.js 16 projects** quickly with a standard folder structure, reusable components, hooks, stores, utilities, API routes, and tests.  
